@@ -1,0 +1,51 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    padding: 0%;
+}
+#body{
+    width: auto;
+    height: 100vh;
+    background-color: aquamarine;
+}
+.container{
+    display: flex;
+    /* //display:inline-block; */
+    border: 1px solid red;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.name{
+    display: inline-block;
+    text-align: top;
+    vertical-align: text-top;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+    background-color:white;
+    border-radius: 10px solid black;
+
+    /* justify-content: space-between; */
+}
+.ha{
+    vertical-align: text-top;
+
+}
+.pokimage{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 1rem 1rem;
+    background-color: cyan;
+}
+
+.para{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 1rem 1rem;
+}
+.para p{
+    size: 100px;
+    color: red;
+    text-size: 40px;
+}
