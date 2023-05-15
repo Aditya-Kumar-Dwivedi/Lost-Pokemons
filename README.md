@@ -39,9 +39,9 @@ The Lost Pokemons puzzle website is built using the following technologies:
 
 To run the Lost Pokemons website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/lost-pokemons.git`
+1. Clone the repository: `git clone https://github.com/Aditya-Kumar-Dwivedi/lost-pokemons.git`
 2. Navigate to the project directory: `cd lost-pokemons`
-3. Open the `index.html` file in your preferred web browser.
+3. Open the `login.php` file in your preferred web browser.
 
 ## User and Admin Database
 
