@@ -56,5 +56,5 @@ Contributions to Lost Pokemons are welcome! If you encounter any issues or have 
 ## Website
 
 Visit the Lost Pokemons website at: 
-<div >https://lost-pokemons.000webhostapp.com/login.php</div> 
+<div >lost-pokemons.000webhostapp.com/login.php</div> 
 
